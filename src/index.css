@@ -1,5 +1,2 @@
-@import "tailwindcss";
-
-*{
-  font-family: 'Inter';
-}
+@import "./styles/tokens.css";
+@import "./styles/blocks.css";
